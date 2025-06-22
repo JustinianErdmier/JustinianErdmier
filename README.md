@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋 I'm Justinian 😁
+- 😄 Pronouns: he/him/they/them
+- 🔭 I’m currently working on a small DDD base library called `Erdmier.DomainCore` as well as some other small sample projects to hone in my skills and knowledge as a developer.
+- 💬 Ask me about Blazor and how C# is the best language out here!
+
+## About Me
+I startd my journey as a software developer in 2021 when I attended the Eleven Fifty Academy bootcamp. Over the course of 12 weeks, I went from knowing nothing about programming to being able to design and build complete, full-stack web applications. Since then, I've had the priviledge to grow my skillset, learning about everything from database design and implementation; UI and UX design; cloud programming; CI/CD; and much, much more. I've had hands-on experience with a long list of languages and environments (e.g., PHP, JavaScript, R, Python, Java, etc.), but I have a true passion for C# and the .NET community. When I get to use C# and .NET to build virtually anything, I always feel at home.
 
 <!--
 **JustinianErdmier/JustinianErdmier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
