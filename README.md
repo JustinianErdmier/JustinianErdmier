@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Justinian 😁
 - 😄 Pronouns: he/him/they/them
+- ⚡ Fun fact: I usually wear suits and bow-ties.
 - 🔭 I’m currently working on a small DDD base library called `Erdmier.DomainCore` as well as some other small sample projects to hone in my skills and knowledge as a developer.
 - 💬 Ask me about Blazor and how C# is the best language out here!
 
