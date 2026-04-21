@@ -1,11 +1,64 @@
-# Hi there 👋 I'm Justinian 😁
-- 😄 Pronouns: he/him/they/them
-- ⚡ Fun fact: I usually wear suits and bow-ties.
-- 🔭 I’m currently working on a small DDD base library called `Erdmier.DomainCore` as well as some other small sample projects to hone in my skills and knowledge as a developer.
-- 💬 Ask me about Blazor and how C# is the best language out here!
+# Justinian Erdmier
 
-## About Me
-I startd my journey as a software developer in 2021 when I attended the Eleven Fifty Academy bootcamp. Over the course of 12 weeks, I went from knowing nothing about programming to being able to design and build complete, full-stack web applications. Since then, I've had the priviledge to grow my skillset, learning about everything from database design and implementation; UI and UX design; cloud programming; CI/CD; and much, much more. I've had hands-on experience with a long list of languages and environments (e.g., PHP, JavaScript, R, Python, Java, etc.), but I have a true passion for C# and the .NET community. When I get to use C# and .NET to build virtually anything, I always feel at home.
+**.NET software engineer** with a focus on clean architecture, domain-driven design,
+and the craft of building software well.
+
+I started my development journey in 2021 at Eleven Fifty Academy — twelve weeks that
+took me from no programming experience to building full-stack web applications from
+scratch. In the five years since, I've grown that foundation into production-grade .NET
+development across a range of industries and problem domains.
+
+My focus is C# and .NET. Always.
+
+---
+
+## Justinian .NET
+
+I run a YouTube channel dedicated to C# and .NET development — covering tutorials,
+deep dives, project build-alongs, code reviews, best practices, and ecosystem news
+for developers at every level.
+
+> **[Subscribe on YouTube → Justinian .NET](https://www.youtube.com/@justinian.erdmier)**
+
+---
+
+## What I'm Currently Building
+
+### JobTrack
+A personal CLI application for tracking job applications, built with C# and .NET 10.
+A practical exploration of Clean Architecture, Vertical Slice Architecture, and DDD
+applied to a real-world problem domain.
+
+**Stack:** Spectre.Console · EF Core · SQL Server · Mediator · ErrorOr ·
+Ardalis.SmartEnum · FluentValidation · Serilog
+
+---
+
+### Erdmier.DomainCore
+A lightweight DDD base library for .NET, published to NuGet. Provides foundational
+building blocks — entities, value objects, domain events, and mediator integration —
+for building domain-driven applications in C#.
+
+**Packages:** `Erdmier.DomainCore` · `Erdmier.DomainCore.Mediator`
+
+---
+
+## Primary Tech Stack
+
+| | |
+|---|---|
+| **Languages** | C# · SQL |
+| **Frameworks** | ASP.NET Core · EF Core · Blazor |
+| **Patterns** | Clean Architecture · DDD · Vertical Slice Architecture · CQRS |
+| **Tools** | SQL Server · Git · GitHub Actions |
+
+---
+
+## Connect
+
+- **YouTube** — [Justinian .NET](https://www.youtube.com/@justinian.erdmier)
+- **LinkedIn** — [linkedin.com/in/justinian-erdmier](https://linkedin.com/in/justinian-erdmier)
+- **X / Twitter** — [@JustinianDotNet](https://x.com/JustinianDotNet)
 
 <!--
 **JustinianErdmier/JustinianErdmier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
